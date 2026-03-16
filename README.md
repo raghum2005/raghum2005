@@ -1,4 +1,5 @@
-# 💫 About Me:
+                                                # Hi, I'm Raghunandan M
+                                   A curious coder 💻 and enthusiastic tech developer 🚀.
 🚀 Information Science & Engineering student exploring Machine Learning, web development, and problem-solving.<br>🔍 Interested in Python, DSA, and Open-Source contributions.<br>🎯 Aiming to improve my coding skills for internships and real-world projects.<br>💡 Currently learning DSA and Machine Learning concepts.
 
 
