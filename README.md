@@ -1,12 +1,8 @@
-###
 <h1 align="center"> Hi 👋, I'm Raghunandan M</h1>
-
-###
-
 <h3 align="center">A curious coder and enthusiastic tech developer.</h3>
-
-###
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=raghum2005&label=Profile%20views&color=blue" alt="raghum2005" />
+</p>
 <h2 align="left"> 💫 About me</h2>
 
 ###
